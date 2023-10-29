@@ -1,4 +1,7 @@
 ### Hi there 👋
+🔭 I’m currently working on small projects using html,css and javascript 
+- 🌱 I’m currently learning react,vue and some back end development tools
+- 📫 How to reach me: bisrattamire288@gmail.com
 
 <!--
 **Bisrate19/Bisrate19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
